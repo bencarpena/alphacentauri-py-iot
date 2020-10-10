@@ -6,3 +6,4 @@
 - Enjoy!
 
 # ledzeppelin solution architecture
+https://github.com/bencarpena/alphacentauri-py-iot/blob/main/cover.png
