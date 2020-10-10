@@ -5,5 +5,6 @@ IoT projects - integrated with Twitter and Slack
 - They've been integrated with Twitter and Slack
 - Enjoy!
 
-# ledzeppelin solution architecture
-https://github.com/bencarpena/alphacentauri-py-iot/blob/main/cover.png
+# ledzep-iot project :: solution architecture
+![Cover](https://github.com/bencarpena/alphacentauri-py-iot/blob/main/cover.png)
+![Solution Architecture](https://github.com/bencarpena/alphacentauri-py-iot/blob/main/solution.png)
