@@ -8,7 +8,7 @@ Description     :   Reads temp and humidity at my local area
                 :   20190518 :  Added Slack feature
                 :   20190727 :  Changed sensor to DHT from AM2302
                 :   20200103 :  Added timestamp at each message and round half up sensor data
-				:	20201219 :  Added MQTT and Azure IoT Hub integration
+		:   20201219 :  Added MQTT and Azure IoT Hub integration
                 :   20201226 :	Reformatted JSON payload to IoT Hub
 
 Credits:
