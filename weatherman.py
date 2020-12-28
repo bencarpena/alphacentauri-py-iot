@@ -18,6 +18,9 @@ Credits:
 # MQTT personal notes:
 https://onedrive.live.com/view.aspx?resid=BE42616FC86F2AB8%2119663&id=documents&wd=target%28IoT.one%7C2C2A8BC3-E1B8-2541-9366-F6F8E984C1BF%2FIntegrating%20MQTT%20and%20Azure%20IoT%20Hub%7CCB2F4618-D393-034D-95F5-04A5DFAE8239%2F%29
 
+# ML and Sol Arch notes:
+https://onedrive.live.com/view.aspx?resid=BE42616FC86F2AB8%2119663&id=documents&wd=target%28IoT.one%7C2C2A8BC3-E1B8-2541-9366-F6F8E984C1BF%2FWeather%20Forecasting%7CD10FD7FF-D1FF-E94C-B448-3282388C2EF1%2F%29
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 '''
 
