@@ -1,7 +1,7 @@
 # alphacentauri-py-iot
->IoT projects - integrated with Twitter and Slack
+>IoT projects : Weatherman, Dorsey, LedZep
 
 - These Python codes are running on my Raspberry PI 3 B+
-- They've been integrated with Twitter and Slack
+- They've been integrated with Twitter, Slack, MQTT, IoT Hub, and Stream Analytics
 - Enjoy!
 
