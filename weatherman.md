@@ -1,7 +1,7 @@
 # Weatherman project :: Solution Architecture
 > Sensors are upgraded to use Phidgets. View my repo on Python + Phidgets [here](https://github.com/bencarpena/phidgets/)
 
-Python codes here : https://github.com/bencarpena/alphacentauri-py-iot/blob/main/weatherman.py
+Python codes for weatherman here : https://github.com/bencarpena/alphacentauri-py-iot/blob/main/weatherman.py
 
 ![Cover](https://github.com/bencarpena/alphacentauri-py-iot/blob/main/iot-ot-solarch-splash.png)
 
