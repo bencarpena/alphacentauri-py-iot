@@ -3,5 +3,6 @@
 
 - These Python codes are running on my Raspberry PI 3 B+
 - They've been integrated with Twitter, Slack, MQTT, IoT Hub, and Stream Analytics
+- Hardware integrations include AM2302, DHT, Phidgets
 - Enjoy!
 
