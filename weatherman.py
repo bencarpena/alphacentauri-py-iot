@@ -8,7 +8,7 @@ Description     :   Reads temp and humidity at my local area
                 :   20190518 :  Added Slack feature
                 :   20190727 :  Changed sensor to DHT from AM2302
                 :   20200103 :  Added timestamp at each message and round half up sensor data
-		:   20201219 :  Added MQTT and Azure IoT Hub integration
+				:	20201219 :  Added MQTT and Azure IoT Hub integration
                 :   20201226 :	Reformatted JSON payload to IoT Hub
 
 Credits:
@@ -189,7 +189,11 @@ try:
 except:
     slack_msg = {'text' : 'alphacentauri (weather_man | iot/w01) : Exception occurred! ' + str(datetime.now())}
     requests.post(webhook_url, data=json.dumps(slack_msg))
+    
+    #Catch and print exception: 
+    _exception = sys.exc_info()[0]
+    print(_exception)
     #os.execv(__file__, sys.argv) 
 finally:
-   print("System " + str(datetime.now()) + " : Cleaning up GPIOs. Furion protocols invoked.") 
+   print("System " + str(datetime.now()) + " : Cleaning up GPIOs.") 
    #sys.exit(1)
