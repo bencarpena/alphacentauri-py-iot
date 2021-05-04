@@ -1,5 +1,5 @@
 # Weatherman project :: Solution Architecture
-> Sensors are upgraded to use Phidgets. View my repo on Python + Phidgets [here](https://github.com/bencarpena/phidgets/)
+> Sensors are upgraded to use Phidgets and AM2302 temp+humidity sensors. View my repo on Python + Phidgets [here](https://github.com/bencarpena/phidgets/)
 
 Python codes for weatherman here : https://github.com/bencarpena/alphacentauri-py-iot/blob/main/weatherman.py
 
